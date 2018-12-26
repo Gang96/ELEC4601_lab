@@ -1,0 +1,21 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2017.4                 C:/Xilinx/Vivado/2017.4
+Matlab 9.1.0.441655 (R2016b)            C:\Program Files\MATLAB\R2016b
+Vivado 2017.4                           C:/Xilinx/Vivado/2017.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Overflow detected upon conversion from input to fixed-poi...
+     Block: 'Lab1/Gateway In'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'Lab1/Gateway In'
+
+Details:
+This error is due to the selection of "Flag as error" for the
+overflow option for this block and the detection of an overflow
+in the conversion from input to fixed-point data type
+--------------------------------------------------------------------------------
